@@ -91,7 +91,7 @@ All rights reserved
       <geometry>
         <cylinder radius="${front_tyre_radius}" length="${front_tyre_width}"/>
       </geometry>
-      <material name="tire_mat"/>
+      <!-- <material name="tire_mat"/> -->
     </visual>
   </link>
 
@@ -112,7 +112,7 @@ All rights reserved
       <geometry>
         <cylinder radius="${front_tyre_radius}" length="${front_tyre_width}"/>
       </geometry>
-      <material name="tire_mat"/>
+      <!-- <material name="tire_mat"/> -->
     </visual>
   </link>
 
@@ -133,7 +133,7 @@ All rights reserved
       <geometry>
         <cylinder radius="${rear_tyre_radius}" length="${rear_tyre_width}"/>
       </geometry>
-      <material name="tire_mat"/>
+      <!-- <material name="tire_mat"/> -->
     </visual>
   </link>
 
@@ -154,7 +154,7 @@ All rights reserved
       <geometry>
         <cylinder radius="${rear_tyre_radius}" length="${rear_tyre_width}"/>
       </geometry>
-      <material name="tire_mat"/>
+      <!-- <material name="tire_mat"/> -->
     </visual>
   </link>
 

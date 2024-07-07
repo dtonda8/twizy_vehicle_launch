@@ -72,7 +72,7 @@ All rights reserved
       <geometry>
         <cylinder length="0.125" radius="0.265"/>
       </geometry>
-      <material name="tire_mat"/>
+      <!-- <material name="tire_mat"/> -->
     </visual>
   </link>
   <link name="front_right_wheel">
@@ -90,7 +90,7 @@ All rights reserved
       <geometry>
         <cylinder length="0.125" radius="0.265"/>
       </geometry>
-      <material name="tire_mat"/>
+      <!-- <material name="tire_mat"/> -->
     </visual>
   </link>
   <link name="rear_left_wheel">
@@ -108,7 +108,7 @@ All rights reserved
       <geometry>
         <cylinder length="0.145" radius="0.281"/>
       </geometry>
-      <material name="tire_mat"/>
+      <!-- <material name="tire_mat"/> -->
     </visual>
   </link>
   <link name="rear_right_wheel">
@@ -126,7 +126,7 @@ All rights reserved
       <geometry>
         <cylinder length="0.145" radius="0.281"/>
       </geometry>
-      <material name="tire_mat"/>
+      <!-- <material name="tire_mat"/> -->
     </visual>
   </link>
   <link name="base_link">
@@ -305,7 +305,7 @@ All rights reserved
       <geometry>
         <box size="0.026 0.026 0.0203"/>
       </geometry>
-      <material name="red"/>
+      <!-- <material name="red"/> -->
     </visual>
     <inertial>
       <mass value="1e-5"/>
@@ -391,7 +391,7 @@ All rights reserved
       <geometry>
         <box size="0.026 0.026 0.0203"/>
       </geometry>
-      <material name="red"/>
+      <!-- <material name="red"/> -->
     </visual>
     <inertial>
       <mass value="1e-5"/>
@@ -477,7 +477,7 @@ All rights reserved
       <geometry>
         <box size="0.026 0.026 0.0203"/>
       </geometry>
-      <material name="red"/>
+      <!-- <material name="red"/> -->
     </visual>
     <inertial>
       <mass value="1e-5"/>
@@ -563,7 +563,7 @@ All rights reserved
       <geometry>
         <box size="0.026 0.026 0.0203"/>
       </geometry>
-      <material name="red"/>
+      <!-- <material name="red"/> -->
     </visual>
     <inertial>
       <mass value="1e-5"/>
@@ -649,7 +649,7 @@ All rights reserved
       <geometry>
         <box size="0.026 0.026 0.0203"/>
       </geometry>
-      <material name="red"/>
+      <!-- <material name="red"/> -->
     </visual>
     <inertial>
       <mass value="1e-5"/>
@@ -735,7 +735,7 @@ All rights reserved
       <geometry>
         <box size="0.026 0.026 0.0203"/>
       </geometry>
-      <material name="red"/>
+      <!-- <material name="red"/> -->
     </visual>
     <inertial>
       <mass value="1e-5"/>
@@ -821,7 +821,7 @@ All rights reserved
       <geometry>
         <box size="0.026 0.026 0.0203"/>
       </geometry>
-      <material name="red"/>
+      <!-- <material name="red"/> -->
     </visual>
     <inertial>
       <mass value="1e-5"/>
@@ -907,7 +907,7 @@ All rights reserved
       <geometry>
         <box size="0.026 0.026 0.0203"/>
       </geometry>
-      <material name="red"/>
+      <!-- <material name="red"/> -->
     </visual>
     <inertial>
       <mass value="1e-5"/>
