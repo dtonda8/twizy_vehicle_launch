@@ -31,7 +31,7 @@ All rights reserved
         <geometry>
           <box size="0.026 0.026 0.0203"/>
         </geometry>
-        <material name="red"/>
+        <!-- <material name="red"/> -->
       </visual>
 
       <inertial>
