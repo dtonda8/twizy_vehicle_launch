@@ -3,6 +3,6 @@
     <arg name="vehicle_id" default="twizy" description="the vehicle under control, env200 or twizy"/>
     <include file="$(find-pkg-share vehicle_interface)/launch/sd_vehicle_interface.launch.xml">
         <arg name="sd_vehicle" value="$(arg vehicle_id)"/>
-        <arg name="sd_simulation_mode" value="true"/>
+        <arg name="sd_simulation_mode" value="false"/>
     </include>
 </launch>
